@@ -1,0 +1,7 @@
+com\weatherapp\api\OpenMeteoClient.class
+com\weatherapp\WeatherApp.class
+com\weatherapp\model\Weather.class
+com\weatherapp\service\WeatherService.class
+com\weatherapp\ui\ConsoleUI.class
+com\weatherapp\model\Location.class
+com\weatherapp\util\Constants.class
