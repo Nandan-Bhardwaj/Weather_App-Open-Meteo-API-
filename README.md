@@ -106,10 +106,7 @@ For more information, visit: https://open-meteo.com/
 - Add configuration file support
 - Support for multiple languages
 
-## License
-
-MIT License (or your chosen license)
 
 ## Author
 
-Your Name
+Nandan Upadhyay
